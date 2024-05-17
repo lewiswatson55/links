@@ -1,0 +1,137 @@
+Speaker,Text,Tag
+SPEAKER_01,So you want to go first?,OPEN-QUESTION
+SPEAKER_00,yeah it looks like that,YES ANSWERS
+SPEAKER_00,people were recording a person presenting or demonstrating how to make a salad that I say a Greek salad because of the ingredients suspiciously leading me to think it might have been a Greek salad although it was obviously tomato,STATEMENT
+SPEAKER_00,cucumber and onion and they were chopped well the person was making the salad was was showing what was doing so slicing chopping or preparing the ingredients,STATEMENT
+SPEAKER_00,and then throwing them in the bowl.,STATEMENT
+SPEAKER_00,"And I'm not clear exactly what the people who were sitting on the side were doing, but I'm suspecting they might have been part of the filming crew as well, because they, yeah, that's what I, in short, I would summarize this scene.",SUMMARIZE/REFORMULATE
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,I didn't see any people apart from the person cooking.,NEGATIVE NON-NO ANSWERS
+SPEAKER_01,"Well, preparing the salad.",STATEMENT
+SPEAKER_01,"So he initially was not sure whether to use a small cucumber, whether it was a cucumber or a fresh onion type of thing.",STATEMENT
+SPEAKER_01,He went for the cucumber.,STATEMENT
+SPEAKER_01,He washed it.,STATEMENT
+SPEAKER_01,cut it as slow as possible ,STATEMENT
+SPEAKER_00,yes ,YES ANSWERS
+SPEAKER_01,i had the neck got some of the cherry tomatoes was them chopped them,STATEMENT
+SPEAKER_01,then moved on to the onion ,STATEMENT
+SPEAKER_00,yeah,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,or yeah i think it was that i forgot the last one ,OTHER
+SPEAKER_00,yeah,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01, yeah and then he added some olive oil probably ,STATEMENT
+SPEAKER_00,or balsamic,COLLABORATIVE COMPLETION
+SPEAKER_01,or balsamic maybe i don't know ,HEDGE
+SPEAKER_00,or both they were two bottles ,OTHER
+SPEAKER_01,there were two bottles i think he only used one yeah,STATEMENT
+SPEAKER_00,most likely yeah ,AFFIRMATIVE NON-YES ANSWERS
+SPEAKER_01,yeah now he makes them all together left the thing like somewhere forward and then in the end i saw another person exiting the room like on his feet did you see that no ,YES-NO-QUESTION
+SPEAKER_00,no,NO ANSWERS
+SPEAKER_01,probably not okay so that's probably all,OTHER
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,So now we need to create the map.,STATEMENT
+SPEAKER_00,The map.,REPEAT-PHRASE
+SPEAKER_00,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,Thanks.,APPRECIATION
+SPEAKER_00,Interesting.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_00,I don't know.,HEDGE
+SPEAKER_00,Do you want to do it?,YES-NO-QUESTION
+SPEAKER_00,"You're a computer person, so... ",STATEMENT
+SPEAKER_01,I don't know exactly what they're expecting.,STATEMENT
+SPEAKER_01,Or maybe I do and I'll introduce some bias.,MAYBE/ACCEPT-PART
+SPEAKER_00,"So from stage to stage, yeah?",STATEMENT
+SPEAKER_01,"Yeah, okay.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,"So initially the person was sewing the two things, the cucumber and the person, whatever it was, to decide which one to use.",STATEMENT
+SPEAKER_01,"Yeah, so starting there.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,Chef?,OPEN-QUESTION
+SPEAKER_00,"Yeah, chef, that's it.",COLLABORATIVE COMPLETION
+SPEAKER_01,And pointing to the cucumber.,STATEMENT
+SPEAKER_01,"Okay, let's do something.",ACTION-DIRECTIVE
+SPEAKER_01,"And then here, let's say, fresh onion.",STATEMENT
+SPEAKER_01,Or something...,ABANDONED/UNINTERPRETABLE
+SPEAKER_01,I don't know what it was.,STATEMENT
+SPEAKER_00,I think it was onion.,OTHER ANSWERS
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,It looked like onion.,STATEMENT
+SPEAKER_00,"And the tomatoes, cherry tomatoes.",STATEMENT
+SPEAKER_01,Yeah.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,So they picked the onion.,STATEMENT
+SPEAKER_01,It's just... Okay.,ABANDONED/UNINTERPRETABLE
+SPEAKER_01,Show it.,ACTION-DIRECTIVE
+SPEAKER_01,okay so then ,ABANDONED/UNINTERPRETABLE
+SPEAKER_00,he went to make it he went into a process of making it so,STATEMENT
+SPEAKER_01, yeah ,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,so first he went to the tap to wash it and,STATEMENT
+SPEAKER_00, sliced it,STATEMENT
+SPEAKER_01,"got the knife, sliced it the cucumber.",STATEMENT
+SPEAKER_00,He washed it as well.,STATEMENT
+SPEAKER_00,"Yeah, he did.",YES ANSWERS
+SPEAKER_01,"Yeah, yeah.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,"Okay, and then he took a bowl.",STATEMENT
+SPEAKER_01,I remember lots of information.,STATEMENT
+SPEAKER_01,And then he added the sliced cucumber,STATEMENT
+SPEAKER_00,into the bowl. So it just transferred the ingredients,COLLABORATIVE COMPLETION
+SPEAKER_01,then he got the cherry tomatoes,STATEMENT
+SPEAKER_00,"So he washed them and chopped them, halved them, in fact, precisely, saying they were halved.",STATEMENT
+SPEAKER_01,Ah okay,RESPONSE ACKNOWLEDGMENT
+SPEAKER_01,And then also... ,ABANDONED/UNINTERPRETABLE
+SPEAKER_00,"And the last one was the onion. Transporting the bulb, probably.",STATEMENT
+SPEAKER_00,...,ABANDONED/UNINTERPRETABLE
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,Put the onion this way.,ACTION-DIRECTIVE
+SPEAKER_01,This is the worst graphic I've ever seen.,OPINION
+SPEAKER_00,Chopped.,STATEMENT
+SPEAKER_01,It was also chopped with a knife.,STATEMENT
+SPEAKER_00,"And he splashed, I think, balsamic or olive oil.",STATEMENT
+SPEAKER_01,Ah yes,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,"It wasn't clear, but if that was a Greek salad, one of those two would be used.",STATEMENT
+SPEAKER_01,"Yes, it should be olive oil.",YES ANSWERS
+SPEAKER_01,"He just pushed it forward, so I guess it was closer to these people.",STATEMENT
+SPEAKER_00,"Yeah, he just presented that.",STATEMENT
+SPEAKER_01,okay... presented,REPEAT-PHRASE
+SPEAKER_00,I think they were part of the filming crew.,STATEMENT
+SPEAKER_00,I don't know.,HEDGE
+SPEAKER_00,I didn't see the person who was making it.,STATEMENT
+SPEAKER_00,I only saw the hands.,STATEMENT
+SPEAKER_01,"Okay, I only saw the person not just his hands. ThatÃs interesting.",STATEMENT
+SPEAKER_00,"Yeah, it was quite interesting.",AGREEMENT/ACCEPT
+SPEAKER_01,What were the crew doing?,WH-QUESTION
+SPEAKER_01,Maybe we should say something about them.,MAYBE/ACCEPT-PART
+SPEAKER_00,I think they were obviously filming it for...,DECLARATIVE YES-NO-QUESTION
+SPEAKER_00,purpose of cookery program or advertising or filming an advert or I don't know.,STATEMENT
+SPEAKER_01,Were they holding like cameras and stuff?,YES-NO-QUESTION
+SPEAKER_00,"They were having what they call stands with some devices to film, I think.",STATEMENT
+SPEAKER_00,"To be honest, I didn't pay attention",STATEMENT
+SPEAKER_00,"To them, I was paying the attention to the person who was actually doing the activity, the preparation process.",STATEMENT
+SPEAKER_01,okay yes,YES ANSWERS
+SPEAKER_00,So they were looking to me like a filming crew and they were waiting for him to,STATEMENT
+SPEAKER_01,to do something,COLLABORATIVE COMPLETION
+SPEAKER_00," to uh run, maybe that was a dry run.",STATEMENT
+SPEAKER_00,okay maybe was just they wanted him to just kind of exercise and then they were probably,STATEMENT
+SPEAKER_01,Oh so they were not filming,BACKCHANNEL-QUESTION
+SPEAKER_00, they were not they were just waiting for him to go through the process i didn't see them filming that ,STATEMENT
+SPEAKER_01,"the chef, okay this should be connected with this one ",STATEMENT
+SPEAKER_00,yeah anyway ,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,yeah so that's let me just look at this party,STATEMENT
+SPEAKER_00,"Uhuh So they, yeah, it's more for the film crew to run through, because they were sort of, one of them was standing, the other one was checking some equipment,",STATEMENT
+SPEAKER_01,Okay,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00," and then the one who was standing, he just sat and was waiting.",STATEMENT
+SPEAKER_00,But obviously...,ABANDONED/UNINTERPRETABLE
+SPEAKER_01,did nothing much,STATEMENT
+SPEAKER_00,difficult to say whether he was waiting for the salad hahaha,SELF-TALK
+SPEAKER_01,hahaha,NON-VERBAL
+SPEAKER_00,being prepared for him or whether he was waiting for just the task to be finished and then they moved on so,STATEMENT
+SPEAKER_01,mhmm,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,to to a proper filming ,STATEMENT
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,or eating i don't know it wasn't very obvious,STATEMENT
+SPEAKER_01,Okay,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,could be both  ,STATEMENT
+SPEAKER_01,yeah,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,"yeah so i would say, do we have some more information or not?",OPEN-QUESTION
+SPEAKER_00,i think it's the chart covers quite well the the activity which took place and during the five minutes of this short video so yeah,STATEMENT
+SPEAKER_01,okay,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00, i would and more or less i agree with the information or the content presenting on the video,STATEMENT
+SPEAKER_01,okay yeah cool,BACKCHANNEL/ACKNOWLEDGE

@@ -1,0 +1,215 @@
+Speaker,Text,Tag
+SPEAKER_00,Professional kitchen.,STATEMENT
+SPEAKER_01,Professional kitchen.,REPEAT-PHRASE
+SPEAKER_00,"Looked like he was making salad, some sort of salad.",STATEMENT
+SPEAKER_01,Salsa-y type salad.,STATEMENT
+SPEAKER_00,"Possibly, because it was a dressing.",STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,"He washed all the vegetables before he prepared them, but he didn't wash his hands before he did it.",STATEMENT
+SPEAKER_00,He should have washed them after that.,STATEMENT
+SPEAKER_00,"I'm watching thinking I would have washed my hands after doing that, but anyway.",STATEMENT
+SPEAKER_00,what else there was three cameras there was obviously the one I was watching and there was two others I could see ,STATEMENT
+SPEAKER_01,right so I could only see one camera because I was the man preparing the food ,STATEMENT
+SPEAKER_00,okay so you so was it the one in front of you you could see ,BACKCHANNEL-QUESTION
+SPEAKER_01,"yes, standing",YES ANSWERS
+SPEAKER_00,"so there was another one, okay there was another one at the back of the kitchen right and obviously one where I was because you could I could watch it as well it's quite interesting",STATEMENT
+SPEAKER_01,yes,YES ANSWERS
+SPEAKER_01,and yellow trainers,STATEMENT
+SPEAKER_00,there was a lot of yellow the t-shirt the peeler thing was yellow ,STATEMENT
+SPEAKER_01,Yep.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,yep the things up on the roof were yellow there's a lot it's a bit funny because the other one was blue it's interesting right okay so this color is obviously a thing ,STATEMENT
+SPEAKER_01,yeah so yeah yellow trainers black and yellow t-shirt yeah yellow utensils lots of tattoos,STATEMENT
+SPEAKER_00, yes,YES ANSWERS
+SPEAKER_00,did you see his tattoos did you see his glasses ,YES-NO-QUESTION
+SPEAKER_01,i was ,ABANDONED/UNINTERPRETABLE
+SPEAKER_00,no oh you couldn't so his glasses were his face,STATEMENT
+SPEAKER_00,There were strange glasses.,STATEMENT
+SPEAKER_00,I don't know if they're for chopping onions and things because it looked like they were almost goggles.,STATEMENT
+SPEAKER_01,"Oh, okay.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_00,Glasses he had on.,STATEMENT
+SPEAKER_00,His chopping was very good.,STATEMENT
+SPEAKER_01,Very neat.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,"Yes, it was.",AGREEMENT/ACCEPT
+SPEAKER_01,Very professional.,STATEMENT
+SPEAKER_00,Yes.,YES ANSWERS
+SPEAKER_00,What else?,OPEN-QUESTION
+SPEAKER_01,So what was there?,WH-QUESTION
+SPEAKER_01,There was a carrot.,STATEMENT
+SPEAKER_00,"A leek, I think, was the... Yeah.",STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,"Pepper, Red onion.",STATEMENT
+SPEAKER_01,Red onion and a carrot.,STATEMENT
+SPEAKER_00,And a carrot.,REPEAT-PHRASE
+SPEAKER_00,"And then some sort of... Yeah, or it could have been like green chillies or something.",COLLABORATIVE COMPLETION
+SPEAKER_01,"oh, Like a herb?",BACKCHANNEL-QUESTION
+SPEAKER_00,To put on the top because it was much smaller than...,STATEMENT
+SPEAKER_01,"Yes, it looked like a herb.",YES ANSWERS
+SPEAKER_00,"You could obviously see it better than I could do, so it was maybe not then.",STATEMENT
+SPEAKER_00,"if it was a herb, but it was probably coriander.",STATEMENT
+SPEAKER_01,"Yeah, I think it was a herb.",OPINION
+SPEAKER_00,"Right, okay.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,To put on the top.,STATEMENT
+SPEAKER_00,And then another man came in.,STATEMENT
+SPEAKER_00,He was standing shaking his head at him.,STATEMENT
+SPEAKER_00,Why was he shaking his head at him?,WH-QUESTION
+SPEAKER_01,"Oh, I don't know.",OTHER ANSWERS
+SPEAKER_01,The man that was actually recording it on the video that I could see just gave him a thumbs up at the end.,STATEMENT
+SPEAKER_00,"At the end, but he also shook his head.",STATEMENT
+SPEAKER_00,He was standing.,STATEMENT
+SPEAKER_00,"Obviously, you couldn't see that then.",STATEMENT
+SPEAKER_00,It wasn't looking at that particular moment.,STATEMENT
+SPEAKER_00,He was standing in the corner and he was going like that.,STATEMENT
+SPEAKER_01,"Oh, really?",BACKCHANNEL-QUESTION
+SPEAKER_01,"No, I didn't see that.",NO ANSWERS
+SPEAKER_00,That's a bit strange.,STATEMENT
+SPEAKER_00,"Right, okay.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,What else?,OPEN-QUESTION
+SPEAKER_01,It was obviously bowls.,STATEMENT
+SPEAKER_00,"Yeah, quite a small portion to make because it was only for one person.",STATEMENT
+SPEAKER_01,Yes,YES ANSWERS
+SPEAKER_00,So it must be like they make it to order.,DECLARATIVE YES-NO-QUESTION
+SPEAKER_01,That's why I thought it would be like a salsa or something like a sidey type dish.,STATEMENT
+SPEAKER_00,"Yeah, I don't know.",HEDGE
+SPEAKER_01,It did look nice.,STATEMENT
+SPEAKER_00,"Yeah, in the dressing.",STATEMENT
+SPEAKER_00,It looked like a salad dressing.,STATEMENT
+SPEAKER_01,"Yes, it did look like a salad dressing.",AGREEMENT/ACCEPT
+SPEAKER_01,"It's strange things put in a salad though, carrot?",STATEMENT
+SPEAKER_00,"Yeah, well.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,"A big kitchen for one man, one chef, you would think they would have been.",STATEMENT
+SPEAKER_01,"Yeah, they must have been.",AGREEMENT/ACCEPT
+SPEAKER_01,We do wonder if they're not cooking for a professional restaurant or something.,DECLARATIVE YES-NO-QUESTION
+SPEAKER_00,"It's just a... Well, it looked like a professional kitchen.",STATEMENT
+SPEAKER_00,"It did look like... Yes, it did.",STATEMENT
+SPEAKER_00,But it didn't look like it was open.,STATEMENT
+SPEAKER_01,Maybe not.,MAYBE/ACCEPT-PART
+SPEAKER_01,open and cooking for service.,COLLABORATIVE COMPLETION
+SPEAKER_00,Maybe not.,REPEAT-PHRASE
+SPEAKER_00,Right.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,What else was round about?,OPEN-QUESTION
+SPEAKER_01,What was in front of him?,WH-QUESTION
+SPEAKER_00,all just stainless steel units and things there's a lot of there was things up on this the the hook above them which i was quite intrigued by there were round things i don't know if they're pulleys or something two yellow ones again but i don't know what they were for ,STATEMENT
+SPEAKER_01,right okay i don't know i'm not sure ,RESPONSE ACKNOWLEDGMENT
+SPEAKER_00,"i'm not sure what that was for, i don't know ",HEDGE
+SPEAKER_01,i don't know,HEDGE
+SPEAKER_00,"the big chef's knife, its huge",STATEMENT
+SPEAKER_01,yeah and the same peeler for these carrots,STATEMENT
+SPEAKER_01,yep and he put all these peelings and all these rubbish in them and ,STATEMENT
+SPEAKER_00,"the wee tray things at the back, yeah, what else",STATEMENT
+SPEAKER_01,Something on his T-shirt that said something.,STATEMENT
+SPEAKER_00,"I know, I couldn't see it either.",STATEMENT
+SPEAKER_01,"It looked like a cat with a hat on, but I couldn't see what the actual T-shirt said.",STATEMENT
+SPEAKER_01,I was looking down on it.,STATEMENT
+SPEAKER_00,I could see it at the back.,STATEMENT
+SPEAKER_00,"I could see it at the back, but it looked like it was a load of words, but I couldn't see what the words were.",STATEMENT
+SPEAKER_00,Shall we?,OPEN-QUESTION
+SPEAKER_01,Let's draw.,ACTION-DIRECTIVE
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,It's a good start.,STATEMENT
+SPEAKER_00,"Let's expand on that and we can see red onion, carrot, pepper.",STATEMENT
+SPEAKER_01,Yep.,YES ANSWERS
+SPEAKER_00,What else did we say?,OPEN-QUESTION
+SPEAKER_01,It was either a leek or a celery or something like that.,OTHER
+SPEAKER_00,"The way he sliced it, it looked more leek-like than celery.",OPINION
+SPEAKER_00,"I don't think you would do it long ways, celery.",OPINION
+SPEAKER_00,And then there was the herb.,STATEMENT
+SPEAKER_01,"Yeah, definitely a herb.",AGREEMENT/ACCEPT
+SPEAKER_00,And then a dressing.,STATEMENT
+SPEAKER_01,"And then down that way, maybe put the man.",OTHER
+SPEAKER_01,How old do you think he was?,OPEN-QUESTION
+SPEAKER_00,30s.,OTHER ANSWERS
+SPEAKER_01,I didn't see his face.,STATEMENT
+SPEAKER_00,"Okay, yeah, hard to say.",AGREEMENT/ACCEPT
+SPEAKER_00,30s maybe.,OTHER ANSWERS
+SPEAKER_01,"Right, 30s.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,Tattoos.,STATEMENT
+SPEAKER_00,30s.,REPEAT-PHRASE
+SPEAKER_01,Glasses.,STATEMENT
+SPEAKER_00,"Yeah, almost goggles.",COLLABORATIVE COMPLETION
+SPEAKER_00,"Right, okay.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,Yellow trainers.,STATEMENT
+SPEAKER_00,Yellow trainers.,REPEAT-PHRASE
+SPEAKER_01,Yellow trainers.,REPEAT-PHRASE
+SPEAKER_00,black t-shirt black and yellow t-shirt t-shirt yellow writing ,STATEMENT
+SPEAKER_01,yep i would say he was a professional chef i think ,STATEMENT
+SPEAKER_00,yeah definitely,AGREEMENT/ACCEPT
+SPEAKER_01,Do you want to put a large knife?,YES-NO-QUESTION
+SPEAKER_00,Large knife.,REPEAT-PHRASE
+SPEAKER_01,Yellow peel it.,OTHER
+SPEAKER_00,What else?,OPEN-QUESTION
+SPEAKER_01,Film.,STATEMENT
+SPEAKER_01,Definitely making a film.,STATEMENT
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_00,Cameras.,STATEMENT
+SPEAKER_00,Yes.,YES ANSWERS
+SPEAKER_00,Just going to put the cameras on the man.,STATEMENT
+SPEAKER_00,Times three.,STATEMENT
+SPEAKER_01,"Well, I only saw one.",OTHER ANSWERS
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,"As far as I could see, there was three.",STATEMENT
+SPEAKER_00,On somebody and a man.,STATEMENT
+SPEAKER_01,Camera man.,STATEMENT
+SPEAKER_00,What else did we see?,OPEN-QUESTION
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_00,The steel kitchen.,STATEMENT
+SPEAKER_01,Yep.,YES ANSWERS
+SPEAKER_01,"Professional ones, yeah.",AFFIRMATIVE NON-YES ANSWERS
+SPEAKER_00,Mm-hmm.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,And serving dishes.,STATEMENT
+SPEAKER_01,Is the one he served it in not white?,YES-NO-QUESTION
+SPEAKER_00,"Yeah, it was actually more a mixing bowl, wasn't it, he put it into?",STATEMENT
+SPEAKER_01,"Yeah, I think so.",AGREEMENT/ACCEPT
+SPEAKER_00,Put it in here.,ACTION-DIRECTIVE
+SPEAKER_00,White bowl.,STATEMENT
+SPEAKER_01,Yep.,YES ANSWERS
+SPEAKER_00,And what else?,OPEN-QUESTION
+SPEAKER_01,Spoon.,STATEMENT
+SPEAKER_00,"He used a spoon to mix it, didn't he?",DECLARATIVE YES-NO-QUESTION
+SPEAKER_01,He did.,YES ANSWERS
+SPEAKER_00,once he put the dressing in it.,STATEMENT
+SPEAKER_01,"He did, he did.",REPEAT-PHRASE
+SPEAKER_00,Anything else?,OPEN-QUESTION
+SPEAKER_01,I don't think so. No.,NEGATIVE NON-NO ANSWERS
+SPEAKER_01,Married.,STATEMENT
+SPEAKER_01,He had a wedding ring.,STATEMENT
+SPEAKER_00,Well done.,APPRECIATION
+SPEAKER_01,Thank you.,THANKING
+SPEAKER_00,I never noticed that.,STATEMENT
+SPEAKER_00,You would have seen that from where you were watching.,STATEMENT
+SPEAKER_01,"I did, yeah.",YES ANSWERS
+SPEAKER_00,"Possibly, but as I didn't.",OTHER
+SPEAKER_00,"Black trousers on, didn't he?",STATEMENT
+SPEAKER_01,Black trousers on.,REPEAT-PHRASE
+SPEAKER_00,"He did have it, yeah.",YES ANSWERS
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,because it wasn't jeans.,STATEMENT
+SPEAKER_01,"One of his tattoos was a scorpion, but I didn't see what the other one was.",STATEMENT
+SPEAKER_01,"That's it, I think.",SUMMARIZE/REFORMULATE
+SPEAKER_00,Dark hair.,STATEMENT
+SPEAKER_01,I didn't see his hair either.,STATEMENT
+SPEAKER_00,"Yeah, dark hair.",STATEMENT
+SPEAKER_01,What about the cameraman?,OPEN-QUESTION
+SPEAKER_01,30s as well.,STATEMENT
+SPEAKER_00,About the same age.,STATEMENT
+SPEAKER_00,"I thought he looked older, actually.",OPINION
+SPEAKER_01,Did you?,BACKCHANNEL-QUESTION
+SPEAKER_01,"Right, okay.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,I think he could even be in his 50s.,OPINION
+SPEAKER_01,Yep okay...,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,"Dark, yeah.",STATEMENT
+SPEAKER_00,Yep.,YES ANSWERS
+SPEAKER_01,Yep.,YES ANSWERS
+SPEAKER_00,He washed them all before he cut them up.,STATEMENT
+SPEAKER_01,He dried the herbs as well.,STATEMENT
+SPEAKER_00,He also dried... I don't know what it was.,STATEMENT
+SPEAKER_00,Was it maybe the... It wasn't the leek or the carrot.,HEDGE
+SPEAKER_00,"Would it have been the red onion, maybe?",DECLARATIVE YES-NO-QUESTION
+SPEAKER_00,He wrapped something when he was wrapping it in kitchen oil.,STATEMENT
+SPEAKER_01,Definitely did that with the herbs.,AGREEMENT/ACCEPT
+SPEAKER_00,Maybe that's what it was then.,MAYBE/ACCEPT-PART
+SPEAKER_01,He definitely wrapped the herbs in kitchen oil.,STATEMENT
+SPEAKER_00,That's it.,AGREEMENT/ACCEPT
+SPEAKER_01,I think that's it.,AGREEMENT/ACCEPT
+SPEAKER_00,I think we're happy with that.,STATEMENT

@@ -1,0 +1,100 @@
+Speaker,Text,Tag
+SPEAKER_01,um so there's a bike in the main room on the stand ,STATEMENT
+SPEAKER_00,Yes,YES ANSWERS
+SPEAKER_01,uh at the table a bunch of tools on it ,STATEMENT
+SPEAKER_00,yep,YES ANSWERS
+SPEAKER_01,um there's this sort of another bench for the man sat on it um in that corner ,STATEMENT
+SPEAKER_00,so i could see the back of the man who was fixing the bike,STATEMENT
+SPEAKER_01, yeah ,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,and then looking towards the guy sat on the bench,STATEMENT
+SPEAKER_01,"Okay, yeah, yeah.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,I was POV of the man fixing the bike.,STATEMENT
+SPEAKER_00,"Oh, okay.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_01,"Yeah, so I saw your camera in the corner and then those two other cameras and tripods.",STATEMENT
+SPEAKER_00,"Cool, it was like a garage with two windows, a door",STATEMENT
+SPEAKER_01,wooden box on next to the door on the wall some kind of fuse box thing on the wall behind the man ,STATEMENT
+SPEAKER_00,couldn't figure out what that was yeah when it was a fuse box or like events maybe,STATEMENT
+SPEAKER_01, yeah it was weird ,STATEMENT
+SPEAKER_00,big thing a kitchen roll on the table yeah coffee cup water bottle. There was a inner tube on the floor as well under the table.,STATEMENT
+SPEAKER_01,Yeah.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,And not much happened from my perspective other than the wee man that was watching everything looked incredibly bored.,STATEMENT
+SPEAKER_00,He yawned a couple of times.,STATEMENT
+SPEAKER_01,Yeah.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,"There was also an air vent on one of the walls, the walls opposite the door and the windows.",STATEMENT
+SPEAKER_00,"Oh, I couldn't see that.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_01,And yeah.,YES ANSWERS
+SPEAKER_00,Could you see anything out the window?,YES-NO-QUESTION
+SPEAKER_01,no they were shut like blinds were shut but it was a sunny day outside,NO ANSWERS
+SPEAKER_00, yeah um but yeah not much i don't know i couldn't see what was happening with the actual bike ,HEDGE
+SPEAKER_01,uh right he was uh oiling up the chain um that's basically all he did ,STATEMENT
+SPEAKER_00,"ah okay yeah yeah i could just see spin the wheels a few times um and then at the end. The bloke who was recording got up and put, it looked like his phone, but I'm guessing it wasn't his phone, in front of one of the cameras that was recording.",STATEMENT
+SPEAKER_01,It looked like his phone.,REPEAT-PHRASE
+SPEAKER_00,Yeah.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,"Yeah, it was strange, didn't know what he was doing.",STATEMENT
+SPEAKER_00,And then he helped him get it down off the stand.,STATEMENT
+SPEAKER_01,"Yeah, into the back room, which had two more bikes and a sink.",STATEMENT
+SPEAKER_00,oh were you like moving with the bike? Ohh okay,OTHER
+SPEAKER_01,yeah so that room also had like a countertop and the boiler and not much else really,STATEMENT
+SPEAKER_00,yeah i think that's all i've got really yeah,CONVENTIONAL-CLOSING
+SPEAKER_00,Can we name the people?,OPEN-QUESTION
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,We'll call them mechanic.,STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,Is that what you call bike people?,WH-QUESTION
+SPEAKER_01,I think so.,YES ANSWERS
+SPEAKER_00,and then trying to think space wise camera because i'm yeah i'm guessing he was there for the yeah recording writing upside down is hard and what else did we have um,STATEMENT
+SPEAKER_01,"Yeah, bike.",YES ANSWERS
+SPEAKER_01,Is that important?,OPEN-QUESTION
+SPEAKER_00,"Oh, yeah.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,Bike.,REPEAT-PHRASE
+SPEAKER_01,Yep.,YES ANSWERS
+SPEAKER_00,"The proportions are a bit off, my bad.",STATEMENT
+SPEAKER_01,It's always the way.,STATEMENT
+SPEAKER_00,So there was a stand as well.,STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,"So unless we want to just say bike on... No, because the bike comes off the stand, so we'll need to have the stand separate.",STATEMENT
+SPEAKER_00,I think we could just do... Yeah.,OPINION
+SPEAKER_01,Um...,ABANDONED/UNINTERPRETABLE
+SPEAKER_00,"And then we had tools on the table, so maybe just a wee box that says tools.",STATEMENT
+SPEAKER_00,"Unless you want to say specifically what tools, what do you think?",OPEN-QUESTION
+SPEAKER_01,"There was a couple of spanners, I think.",STATEMENT
+SPEAKER_01,I didn't see much else.,STATEMENT
+SPEAKER_00,"Yeah, we'll just see.",AGREEMENT/ACCEPT
+SPEAKER_01,Bench as well.,STATEMENT
+SPEAKER_00,"Nothing happened with that, but it was there.",STATEMENT
+SPEAKER_01,So... I don't know.,HEDGE
+SPEAKER_00,lots of cameras as well yeah and,STATEMENT
+SPEAKER_00,"I don't know, does that make sense?",HEDGE
+SPEAKER_01,"Yeah, makes sense to me.",AGREEMENT/ACCEPT
+SPEAKER_00,It's hard to model time.,STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,"In diagrams like this, because then there was, then he helped to move, and then there's the whole bit that you could see that I couldn't.",STATEMENT
+SPEAKER_01,"Yeah, getting into the back room.",STATEMENT
+SPEAKER_01,there yeah and then we've maybe got a whole separate back room yeah,STATEMENT
+SPEAKER_00,"Sorry, it sort of started out as a bit of a floor plan and then turned into a vague knowledge graph.",APOLOGY
+SPEAKER_00,So what was in the back?,WH-QUESTION
+SPEAKER_01,Some bikes.,STATEMENT
+SPEAKER_00,"Is there a boiler as well, I think, or a sink?",DECLARATIVE YES-NO-QUESTION
+SPEAKER_01,"Yeah, a boiler and a sink.",STATEMENT
+SPEAKER_01,They went to switch out the bikes.,STATEMENT
+SPEAKER_00,Remember might need to number our arrows.,STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,"Yeah, good call.",AGREEMENT/ACCEPT
+SPEAKER_01,I think they switched bike one with... I think it was bike three.,STATEMENT
+SPEAKER_01,I'll just do an arrow.,STATEMENT
+SPEAKER_00,Yeah.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,"Will we number these, maybe, the order that they... Yeah, probably a good shout.",DECLARATIVE YES-NO-QUESTION
+SPEAKER_00,"Can't do an upside-down two, just a wee two in that circle.",STATEMENT
+SPEAKER_00,Three.,STATEMENT
+SPEAKER_00,And then four.,STATEMENT
+SPEAKER_00,"And then, should we put the other bits and bobs in?",YES-NO-QUESTION
+SPEAKER_01,"Sure, yeah.",AGREEMENT/ACCEPT
+SPEAKER_00,"door, window, this one had blinds?",STATEMENT
+SPEAKER_01,yeah,YES ANSWERS
+SPEAKER_00,and then i don't know what they call that thing if you don't know what it was yeah um control unit maybe? ,HEDGE
+SPEAKER_01,sure yeah why not ,YES ANSWERS
+SPEAKER_00,and then you said there was a vent on this wall as well didn't you,DECLARATIVE YES-NO-QUESTION
+SPEAKER_01, Yeah. Looks pretty good to me. Yeah.,AFFIRMATIVE NON-YES ANSWERS
+SPEAKER_00,Eh Yeah.,BACKCHANNEL/ACKNOWLEDGE

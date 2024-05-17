@@ -1,0 +1,126 @@
+Speaker,Text,Tag
+SPEAKER_01,Are you ready?,YES-NO-QUESTION
+SPEAKER_00,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,"So it was a guy kicking a ball, a football.",STATEMENT
+SPEAKER_00,Yep.,YES ANSWERS
+SPEAKER_01,"I mean, he had, I think it was Bayern Munich, the German football team.",STATEMENT
+SPEAKER_00,"Oh, okay.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_01,That's what it said on the back of his shirt.,STATEMENT
+SPEAKER_01,"Oh, yeah.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,So which perspective did you have?,OPEN-QUESTION
+SPEAKER_00,Fisheye.,OTHER ANSWERS
+SPEAKER_01,So what could you see from the guy?,OPEN-QUESTION
+SPEAKER_00,From him doing keepie-uppies.,STATEMENT
+SPEAKER_01,"Oh, okay, right.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_00,So I'm guessing you could see the back of him then.,DECLARATIVE YES-NO-QUESTION
+SPEAKER_01,"Yeah, I could see him.",YES ANSWERS
+SPEAKER_01,"So it was like the camera was here, then he was in front of it, then there was other cameras behind him.",STATEMENT
+SPEAKER_00,"Yeah, there was five cameras in total.",STATEMENT
+SPEAKER_00,"Well, five ones on tripods, six if you count his camera himself.",STATEMENT
+SPEAKER_01,"Right, okay.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_00,Yeah.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,So you've seen the point of view of one of the cameras then?,DECLARATIVE YES-NO-QUESTION
+SPEAKER_01,"Yes, yeah.",YES ANSWERS
+SPEAKER_01,"Yeah, I mean, it was on AstroTurf.",STATEMENT
+SPEAKER_01,It was like a football kind of training bit because there was like fences around and stuff.,STATEMENT
+SPEAKER_00,Mm-hmm.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,"I don't know if he was trying to, if there was like an area that he was trying to keep himself in.",HEDGE
+SPEAKER_01,So like there was like cones around.,STATEMENT
+SPEAKER_00,"Yeah, I've seen a couple of like blue and white cones.",STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,So maybe he was working in a certain area.,MAYBE/ACCEPT-PART
+SPEAKER_01,"Yeah, there was like yellow kind of long like.",ABANDONED/UNINTERPRETABLE
+SPEAKER_00,Lines.,STATEMENT
+SPEAKER_01,"Yeah, yeah, yeah.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,"Yeah, and there was people around.",STATEMENT
+SPEAKER_01,Some of them were dressed like football kit.,STATEMENT
+SPEAKER_01,Some of them were just in like normal jeans.,STATEMENT
+SPEAKER_00,I think I counted about 10 people.,STATEMENT
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,Including the guy doing the actual keepy-uppies.,STATEMENT
+SPEAKER_00,So I think there was about 10 people.,STATEMENT
+SPEAKER_00,Because there was obviously a few people just dressed casually.,STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,And the rest of the people were also in the orange kind of football kit.,STATEMENT
+SPEAKER_00,so orange top and boots and it was like black shorts right ,STATEMENT
+SPEAKER_01,yeah he hadn't i don't know it's like red football boots ,STATEMENT
+SPEAKER_00,yeah yeah no red slash orange black shorts,STATEMENT
+SPEAKER_00,yeah i kind of was trying to figure out where it was based on like the astroturf and i think it's probably like in a city or something ,STATEMENT
+SPEAKER_01,there's a lot of i don't know if you saw there was a lot of apartments like behind him ,STATEMENT
+SPEAKER_00,yeah quite tall buildings yeah,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,yeah it was quite urban it looked like this was in the middle of a city or something ,STATEMENT
+SPEAKER_00,exactly ,AGREEMENT/ACCEPT
+SPEAKER_01,i couldn't tell where it was ,STATEMENT
+SPEAKER_00,same yeah ,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,it looked sunny though ,STATEMENT
+SPEAKER_00,it did look sunny yeah ,AGREEMENT/ACCEPT
+SPEAKER_00,it looked very sunny very blue sky um,STATEMENT
+SPEAKER_00,um um the football was green and yellow and white ,STATEMENT
+SPEAKER_01,okay um don't know what else really um it's green astroturf green fence um ,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,yep yellow goalposts,YES ANSWERS
+SPEAKER_00,"And yeah, green fence, Yeah",STATEMENT
+SPEAKER_01,it might have been professionals...,STATEMENT
+SPEAKER_00,"they were like the guy could clearly kick, kick the, he could he could clearly do it so maybe maybe not like champions league professionals but maybe like third division or something like that maybe, maybe like a lower division of football um so i definitely think they could play but they weren't like top ranking",OPINION
+SPEAKER_01,"yeah, well he kept i mean i don't know he kept missing so ",STATEMENT
+SPEAKER_00,Yeah exactly.,AGREEMENT/ACCEPT
+SPEAKER_01,someone had to keep passing the ball back to him ,STATEMENT
+SPEAKER_00,yeah and they had to keep giving him different ones as well ,STATEMENT
+SPEAKER_01,yeah yeah um so better than us but maybe not like really pro ,STATEMENT
+SPEAKER_00,"yeah exactly yeah but not really pro, yeah that makes sense",AGREEMENT/ACCEPT
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,But it might have been like a training kind of thing because there was a lot of people.,STATEMENT
+SPEAKER_01,"I mean, I don't know why the people dressed casual would be like coaches.",OPINION
+SPEAKER_01,I thought they would dress up.,STATEMENT
+SPEAKER_00,"Yeah, dress up a bit or maybe, I don't know, have some kind of indicator, wear the colors or something.",OPINION
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,"But then in football, I mean, some coaches just wear, some are really weird.",STATEMENT
+SPEAKER_00,Some will wear a suit and some will just wear whatever.,STATEMENT
+SPEAKER_01,So maybe they were coaches then.,HEDGE
+SPEAKER_00,Maybe.,MAYBE/ACCEPT-PART
+SPEAKER_01,They were just volunteers helping out or something.,STATEMENT
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_00,So people not in kit.,STATEMENT
+SPEAKER_00,"They could be coaches, bystanders, volunteers.",STATEMENT
+SPEAKER_01,"Yeah, well, they were involved because they were the ones passing the ball back.",STATEMENT
+SPEAKER_00,"Yeah, exactly.",AGREEMENT/ACCEPT
+SPEAKER_00,"So, you know, because they were, yeah.",ABANDONED/UNINTERPRETABLE
+SPEAKER_00,"Yeah, they were involved.",STATEMENT
+SPEAKER_00,They were the passers-by.,STATEMENT
+SPEAKER_01,the guy was the guy was younger obviously,STATEMENT
+SPEAKER_00, i think maybe like 20s 30s um ,STATEMENT
+SPEAKER_01,he had some weak um like glasses on like black i thought that's what you saw through probably ,STATEMENT
+SPEAKER_00,i seen basically his his kind of legs and his feet i suppose so i didn't see his face,STATEMENT
+SPEAKER_01,"oh okay. I wonder if, because he was wearing these black sunglasses.",STATEMENT
+SPEAKER_00,That might have been the camera.,STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,"Oh, cool.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,Wearing black glasses.,STATEMENT
+SPEAKER_01,Hmm.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,I think the main guy was quite young.,STATEMENT
+SPEAKER_01,He looked about 20s-ish.,STATEMENT
+SPEAKER_00,Yep,YES ANSWERS
+SPEAKER_01,The other people were older.,STATEMENT
+SPEAKER_01,The more casual people looked older.,STATEMENT
+SPEAKER_01,I don't know the exact age.,HEDGE
+SPEAKER_00,I think the other footballers probably would have been maybe sort of 20s as well.,STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,Because that tends to be the trend in football.,STATEMENT
+SPEAKER_00,"Everyone else, definitely older than 30.",STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,30 plus.,STATEMENT
+SPEAKER_00,"Because there was one guy in particular, he probably looked at least 40.",STATEMENT
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_00,"And I think he was one of the ones behind him, like beside him, I guess.",STATEMENT
+SPEAKER_00,"I guess like the far right corner where he was, you know, the guy doing the keepy-uppies, there was a guy who was throwing him the ball.",STATEMENT
+SPEAKER_00,He looked definitely older than 35.,STATEMENT
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,"Yeah, something like mustaches and things like that.",STATEMENT
+SPEAKER_00,"Yeah, exactly Exactly.",AGREEMENT/ACCEPT
+SPEAKER_00,"Also the way they were dressed, you know, like there's just a certain indicator of age based on your fashion sense.",STATEMENT
+SPEAKER_01,Yes.,YES ANSWERS
+SPEAKER_00,"Yeah, so Yeah, I'll just put little bullet points here Okay, do we have anything else to say?",DECLARATIVE YES-NO-QUESTION
+SPEAKER_01,No,NO ANSWERS
+SPEAKER_01,"No, I don't think so.",NO ANSWERS
+SPEAKER_00,"No, I think they covered it right. Yes.",DECLARATIVE YES-NO-QUESTION
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE

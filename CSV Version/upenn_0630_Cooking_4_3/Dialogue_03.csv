@@ -1,0 +1,137 @@
+Speaker,Text,Tag
+SPEAKER_01,So it was a guy cooking.,STATEMENT
+SPEAKER_00,"Yeah, I saw that like there are three guys, two were sitting on a couch on a sofa and one was standing cooking something like he's making some salad recipe.",STATEMENT
+SPEAKER_01,"Yeah, I only saw one guy.",REJECT
+SPEAKER_01,"Yeah, I only saw the guy cooking.",STATEMENT
+SPEAKER_00,"No, I saw the three guys.",NEGATIVE NON-NO ANSWERS
+SPEAKER_01,"Oh, okay.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_01,Did you see it from his perspective?,YES-NO-QUESTION
+SPEAKER_00,"Yeah, from his perspective.",YES ANSWERS
+SPEAKER_01,ah okay,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,"And also I've seen that he was taking some like fruits, no, vegetables.",STATEMENT
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_00,The one was first cucumber.,STATEMENT
+SPEAKER_00,The second one was tomato.,STATEMENT
+SPEAKER_00,And the third one was onions.,STATEMENT
+SPEAKER_01,yeah yeah,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,He washed them and he made a salad for the second guy.,STATEMENT
+SPEAKER_00,"He washed and he was adding some, I think, soy sauce or something.",STATEMENT
+SPEAKER_01,I could yeah it was a bottle I couldn't tell what it was ,OTHER ANSWERS
+SPEAKER_00,yeah but it looks like a soy sauce because the guy was Chinese the second guy so they like Chinese eat soy sauce,STATEMENT
+SPEAKER_01,oh yeah,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,you know so I thought this so there were two guys so the second guy came up and he took his bowl for a salad and then the video was stopped because he was making some recipe for his friends maybe ,STATEMENT
+SPEAKER_01,oh yeah okay yeah I only saw the guy in the in the kitchen cook I didn't see any of these other people so I couldn't see who he was cooking ,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,"Oh okay, And the third one was like sitting on a sofa and doing nothing.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_00,They were like talking and just like sitting.,STATEMENT
+SPEAKER_01,"Oh, okay.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,"But there was no sound, so you couldn't tell what they were saying.",STATEMENT
+SPEAKER_01,"Yeah, there was no sound, yeah.",STATEMENT
+SPEAKER_01,I think that's all.,SUMMARIZE/REFORMULATE
+SPEAKER_00,"Yeah, that's all.",STATEMENT
+SPEAKER_00,Good salad?,OPEN-QUESTION
+SPEAKER_01,"Good salad, yes, if I've been",BACKCHANNEL-QUESTION
+SPEAKER_00,Must be confirmed that.,OTHER
+SPEAKER_00,Is it like this?,OPEN-QUESTION
+SPEAKER_00,"So there was actually a room, and he had a kitchen in the same room.",STATEMENT
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,"Yeah, it was kind of a busy kitchen.",STATEMENT
+SPEAKER_01,It was very busy.,STATEMENT
+SPEAKER_00,Everything was messed up.,STATEMENT
+SPEAKER_01,"A lot of things on the sides, yeah.",STATEMENT
+SPEAKER_00,Whose kitchen is that?,WH-QUESTION
+SPEAKER_01,"So you saw a different roof, like a living room?",DECLARATIVE YES-NO-QUESTION
+SPEAKER_00,"Kind of, yeah.",AFFIRMATIVE NON-YES ANSWERS
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_01,And how was that?,OPEN-QUESTION
+SPEAKER_00,OK.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,"I think it looks like evening over there, or kind of like afternoon, maybe.",STATEMENT
+SPEAKER_01,oh okay,RESPONSE ACKNOWLEDGMENT
+SPEAKER_00,"Windy, a little windy outside, maybe.",STATEMENT
+SPEAKER_00,I don't remember that.,STATEMENT
+SPEAKER_00,Do you want to exchange it?,YES-NO-QUESTION
+SPEAKER_01,And he was cooking.,STATEMENT
+SPEAKER_01,"Yeah, you put cooking.",STATEMENT
+SPEAKER_00,"He was actually not cooking, but he was making some recipes.",STATEMENT
+SPEAKER_01,"Yeah, preparing.",COLLABORATIVE COMPLETION
+SPEAKER_01,so cucumbers tomatoes ,STATEMENT
+SPEAKER_00,onions,COLLABORATIVE COMPLETION
+SPEAKER_01,onions,COLLABORATIVE COMPLETION
+SPEAKER_00,and some kind of sauce because when he put that in the bowl it was black so i think it's a soy sauce maybe ,STATEMENT
+SPEAKER_01,okay yeah i didn't see that i always saw it just kind of i saw that because,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,i do cook okay maybe ,STATEMENT
+SPEAKER_01,"Oh okay yeah so i'll put Soy sauce, question mark.",REPEAT-PHRASE
+SPEAKER_01,Okay and he gave the bowl to... ,STATEMENT
+SPEAKER_00,To the guy.,STATEMENT
+SPEAKER_01,"To some, yeah. Okay.",AGREEMENT/ACCEPT
+SPEAKER_00,"To one guy, to one guy.",REPEAT-PHRASE
+SPEAKER_00,"He looks like Asian, Chinese guy.",STATEMENT
+SPEAKER_00,"Could look like, looks like maybe...",HEDGE
+SPEAKER_01,Yeah guy,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,uh kind of asian i don't know the korean or what but ,STATEMENT
+SPEAKER_01,uh Asian,REPEAT-PHRASE
+SPEAKER_00,he looks like asian guy so he he um he was sitting on his sofa and uh then he came to the side he stand up and he took the bowl of the salad ,STATEMENT
+SPEAKER_01,oh got off the sofa and picked up the bowl,COLLABORATIVE COMPLETION
+SPEAKER_00,"Yes, he gave him the first guy gave him so.",STATEMENT
+SPEAKER_00,He took that and and then it was all done.,STATEMENT
+SPEAKER_01,Takes the bowl from...,SUMMARIZE/REFORMULATE
+SPEAKER_00,but also like he was like you know moving his body uh feels like if you see the from the perspective a robot the way a robot moves for example so he was moving he was washing he was like trying to fixing the the cucumbers and everything together like the cucumber was like um like very much like attached,STATEMENT
+SPEAKER_00,So he was trying to make it like organize all the like salad in the bowl.,STATEMENT
+SPEAKER_00,I felt that he was trying to making it more like pretty organized salad bowl.,STATEMENT
+SPEAKER_01,Oh okay hmm,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,So the way he was like cleaning and washing the stuffs.,STATEMENT
+SPEAKER_01,So would you say this guy was like a proper kind of chef?,OPEN-QUESTION
+SPEAKER_00,Kind of maybe or he knows how to like cook maybe.,MAYBE/ACCEPT-PART
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,"But as a robot perspective, I think if you implement these things in a robot, for example, so definitely like the way he was behaving and moving his body.",STATEMENT
+SPEAKER_00,So it could work definitely in that.,STATEMENT
+SPEAKER_01,Good for robots.,STATEMENT
+SPEAKER_00,And he did not move from that position.,STATEMENT
+SPEAKER_00,"I mean, he was standing in the center.",STATEMENT
+SPEAKER_00,So he did not move from left to right.,STATEMENT
+SPEAKER_00,He was just standing in the center.,STATEMENT
+SPEAKER_00,"And he knew that where he have to stand, where he have to move, like standing over here and then move like that and move like that.",STATEMENT
+SPEAKER_00,So I think it feels like it's kind of behaving like a robot thing.,OPINION
+SPEAKER_01,"Like kind of, yeah, like mechanical.",AGREEMENT/ACCEPT
+SPEAKER_00,"Kind of, yeah.",COLLABORATIVE COMPLETION
+SPEAKER_00,"And the way he gave the bowl to the second guy, he was like...",STATEMENT
+SPEAKER_00,um he like take the bowl and he told the guy it's like ready it's done so the second guy he stand up and it feels like the says that the second guy was maybe assuming that the first guy is robot and he's preparing the dish for him maybe ,STATEMENT
+SPEAKER_01,okay ,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,so it was pretty much behaving like a kind of a robot not a like normal human being just with his movement his body textures and movement was like that,STATEMENT
+SPEAKER_00,"Because normally what we do when we cut anything, when we make any salad or something like that, our movements of the fingers are normal.",STATEMENT
+SPEAKER_01,Hm,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,But he was like kind of a machine way.,STATEMENT
+SPEAKER_00,"It feels like that, maybe.",MAYBE/ACCEPT-PART
+SPEAKER_01,okay but you might just be like a like really good at it like like a chef who's done it loads of times where it just becomes easy,HEDGE
+SPEAKER_00,yeah yeah it was 50 50 because the way he put the like the sauce bottle so it was like normal human way yeah yeah,STATEMENT
+SPEAKER_01,Hm yeah,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,anything else did you notice because i noticed these things only yeah,OPEN-QUESTION
+SPEAKER_01, yeah no i didn't notice these things um. I think I donÃt think that got it. I don't think I noticed anything else apart from that...,DECLARATIVE YES-NO-QUESTION
+SPEAKER_00, I only know but not only the mostly I noticed that he was washing everything.,STATEMENT
+SPEAKER_01,Yeah.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,He was preparing before preparing.,STATEMENT
+SPEAKER_00,He was keeping washing everything.,STATEMENT
+SPEAKER_00,"Yeah, that like the hygiene thing was good.",STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,Before cutting before cutting.,STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,And he was like separating the cucumbers.,STATEMENT
+SPEAKER_00,after cutting them in the bowl.,STATEMENT
+SPEAKER_00,So it was good.,STATEMENT
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_01,"Like, I imagine this is how you're supposed to do it, like following all the rules and stuff.",OPINION
+SPEAKER_00,"But if, for example, if it's a robot, for example, so I feel like from the first guy that",HEDGE
+SPEAKER_00,"He can look at second guy, but the third guy was kind of like, you know, not a blur, but like dark.",STATEMENT
+SPEAKER_00,So I could not see the third guy properly.,STATEMENT
+SPEAKER_00,I had to more focus to see the third guy who was sitting on this side.,STATEMENT
+SPEAKER_00,"Because the second guy was sitting over here, and the third one was sitting beside him.",STATEMENT
+SPEAKER_00,"Very much in the corner, actually.",STATEMENT
+SPEAKER_00,So I could not see him.,STATEMENT
+SPEAKER_00,It was like dark.,STATEMENT
+SPEAKER_01,In shadow.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,kind of a shadow but it was like a little bit dark because the the whole camera the lens was like circle ,STATEMENT
+SPEAKER_01,oh okay that's the reason um so it was cut off by the lens ,RESPONSE ACKNOWLEDGMENT
+SPEAKER_00,kind of 360 is it 360 looks like ,OTHER
+SPEAKER_01,Was it like a fish eye maybe ,YES-NO-QUESTION
+SPEAKER_00,Yeah otherwise everything was fine yeah,STATEMENT
+SPEAKER_01,I think that got it.,STATEMENT

@@ -1,0 +1,322 @@
+Speaker,Text,Tag
+SPEAKER_00,"Okay, right.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,"Okay, it's a kitchen.",STATEMENT
+SPEAKER_01,Yes.,YES ANSWERS
+SPEAKER_00,And looks as though the person is being tested on what he's making.,STATEMENT
+SPEAKER_01,Ah okay...,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,Looks like he's being filmed.,STATEMENT
+SPEAKER_00,The camera is on.,STATEMENT
+SPEAKER_00,The chap puts the camera on and walks away and leaves him to do what he has to do.,STATEMENT
+SPEAKER_01,"Okay, So my shot was actually from the guy who was cooking's perspective.",STATEMENT
+SPEAKER_01,So he must have had like a GoPro on his head or on his chest or something.,STATEMENT
+SPEAKER_01,So it was all like a fisheye lens.,STATEMENT
+SPEAKER_00,ooh right,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,all right from his perspective so like a gopro type thing i was actually seeing him do the cooking but i could see the cameras in the background on the table but i didn't really see the guy so it just looked like it was someone cooking and being filmed but if you think it's someone,SUMMARIZE/REFORMULATE
+SPEAKER_00,"Ahh okay, He definitely had something on his eyes yeah and i wasn't sure if that was glasses protective glasses ",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,yeah no must have been a camera,AGREEMENT/ACCEPT
+SPEAKER_00, that's what it is then right yes so he washes all his veg cuts them all up gets his knife and makes them into what looks like washes them ,BACKCHANNEL-QUESTION
+SPEAKER_01,and then puts them into a dish puts them into a bowl makes a wee salad thing ,STATEMENT
+SPEAKER_00,that's right,AGREEMENT/ACCEPT
+SPEAKER_00,And the chap who is keeping an eye on him or started the filming comes back and he's shaking his head or is not 100% happy with what he's done.,STATEMENT
+SPEAKER_01,I think he put his thumb up at the end.,STATEMENT
+SPEAKER_00,"Right, I didn't see that.",STATEMENT
+SPEAKER_00,He may well have.,AFFIRMATIVE NON-YES ANSWERS
+SPEAKER_00,I did not see him put his thumb up.,STATEMENT
+SPEAKER_01,"From my perspective, it was him doing the cutting here and there was a camera there and a camera on the other side of the table pointing at him.",STATEMENT
+SPEAKER_01,But the guy was behind the camera.,STATEMENT
+SPEAKER_00,ah okay,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,so did you see him because at the end he did kind of just put a wee thumb up because the guy was finished and he was happy with his ,YES-NO-QUESTION
+SPEAKER_00,right I didn't see the thumb up I did see him shake his head as in not being 100% happy with what he had done ,STATEMENT
+SPEAKER_01,he did leave some onions on the cutting board though ,STATEMENT
+SPEAKER_00,he did,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01," I thought is he going to put them in the bowl but he didn't put them in the bowl, I don't know if he put some of them in the bowl.",STATEMENT
+SPEAKER_00,I think he did.,YES ANSWERS
+SPEAKER_00,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,I think so.,YES ANSWERS
+SPEAKER_00,But he put carrot and he put...,STATEMENT
+SPEAKER_00,"what looked like onion, spring onion, either spring onion or celery.",STATEMENT
+SPEAKER_00,I wasn't actually sure what it was.,STATEMENT
+SPEAKER_01,And coriander at the end?,YES-NO-QUESTION
+SPEAKER_00,Coriander at the end.,REPEAT-PHRASE
+SPEAKER_01,Is that the last thing?,YES-NO-QUESTION
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,It was like a garnish?,DECLARATIVE YES-NO-QUESTION
+SPEAKER_00,That's right.,AGREEMENT/ACCEPT
+SPEAKER_00,"And he used mayo, looked like, because he gave, or some kind of sauce, because it was a bottle that was yellow.",STATEMENT
+SPEAKER_00,"Could have been mayo, could have been anything.",HEDGE
+SPEAKER_01,"Yeah, yeah.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,"I think, or salad dressing maybe.",OTHER
+SPEAKER_00,Could have been salad dressing.,STATEMENT
+SPEAKER_01,Because it did look like it had...,STATEMENT
+SPEAKER_01,that sort of like black dots and stuff in it i don't know like you know ,HEDGE
+SPEAKER_00,Oh okay like herbs in it?,BACKCHANNEL-QUESTION
+SPEAKER_01,yeah exactly yeah yeah so it's quite a fancy looking kitchen ,AGREEMENT/ACCEPT
+SPEAKER_00,Yes it is,AGREEMENT/ACCEPT
+SPEAKER_01,and i guess if he's being filmed the idea that he's being tested makes sense ,STATEMENT
+SPEAKER_00,a test of some sort yeah ,AGREEMENT/ACCEPT
+SPEAKER_01,because i didn't see that i didn't see the guy but that makes complete sense ,STATEMENT
+SPEAKER_01,that's what it looked like based on the kitchen yeah ,STATEMENT
+SPEAKER_00,yeah if not it wasn't a test it was a video on how to make or,COLLABORATIVE COMPLETION
+SPEAKER_01,"Yeah, okay, yeah.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,Prepare whatever it was he was preparing.,STATEMENT
+SPEAKER_01,"Yeah, yeah.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,"Making like a wee tutorial or even just like a wee recipe video, something like that.",SUMMARIZE/REFORMULATE
+SPEAKER_00,"Tutorial, I reckon.",STATEMENT
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,"Right, I think that could be possible.",OPINION
+SPEAKER_01,"Yeah, because he looked pretty good at what he was doing.",STATEMENT
+SPEAKER_00,"Yeah, he did.",AGREEMENT/ACCEPT
+SPEAKER_00,He knew what he was doing.,STATEMENT
+SPEAKER_01,"Yeah, his cutting and dicing and everything was pretty smooth.",STATEMENT
+SPEAKER_01,So do you want to start putting things on here?,OPEN-QUESTION
+SPEAKER_00,"Okay, so I would start with kitchen.",STATEMENT
+SPEAKER_01,"Kitchen, makes sense.",AGREEMENT/ACCEPT
+SPEAKER_01,Put that bang in the middle.,STATEMENT
+SPEAKER_00,Uh-huh.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,Kitchen.,REPEAT-PHRASE
+SPEAKER_00,Cameras.,STATEMENT
+SPEAKER_01,Cameras.,REPEAT-PHRASE
+SPEAKER_00,Cameras.,REPEAT-PHRASE
+SPEAKER_01,"Yeah, we'll just do that and then put connection to the kitchen is filming.",STATEMENT
+SPEAKER_01,Filming.,STATEMENT
+SPEAKER_00,Filming.,REPEAT-PHRASE
+SPEAKER_01,And then we should put chef.,STATEMENT
+SPEAKER_00,"Chef, yep.",COLLABORATIVE COMPLETION
+SPEAKER_01,Chef.,REPEAT-PHRASE
+SPEAKER_01,Chef.,REPEAT-PHRASE
+SPEAKER_01,It's handwritten.,STATEMENT
+SPEAKER_01,It's atrocious.,OPINION
+SPEAKER_01,And then cooking.,STATEMENT
+SPEAKER_00,Cooking.,REPEAT-PHRASE
+SPEAKER_01,There's a connection to the kitchen.,STATEMENT
+SPEAKER_01,And filming as well to the cameras.,STATEMENT
+SPEAKER_00,Filming.,REPEAT-PHRASE
+SPEAKER_01,And then food.,STATEMENT
+SPEAKER_00,Food.,STATEMENT
+SPEAKER_00,Then you want veg.,STATEMENT
+SPEAKER_00,Or do you want a sink as well?,OR-CLAUSE
+SPEAKER_00,So that's a connection to the kitchen.,STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,Would be sink.,STATEMENT
+SPEAKER_00,Sink.,STATEMENT
+SPEAKER_01,"In, as in it's in the kitchen.",DECLARATIVE YES-NO-QUESTION
+SPEAKER_01,Same with food.,STATEMENT
+SPEAKER_01,"It could be veg, but we'll just leave it broad to kind of cover everything.",STATEMENT
+SPEAKER_00,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,In.,STATEMENT
+SPEAKER_00,Maybe preparing rather than cooking.,OTHER
+SPEAKER_00,Uh-huh.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,And knives.,STATEMENT
+SPEAKER_01,Cooking.,STATEMENT
+SPEAKER_01,Preparing.,STATEMENT
+SPEAKER_01,"Oh, yeah, knives would have been a good one to put in between, actually, but we could just put it here.",STATEMENT
+SPEAKER_01,Knives... part of that preparing,STATEMENT
+SPEAKER_00,and there was also a potato peeler ,STATEMENT
+SPEAKER_01,Oh yeah,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,what do you call it it's got an M I know what you're talking about because he used the knife to chop all the vegetables but he also used the peeler it's a peeler ,COLLABORATIVE COMPLETION
+SPEAKER_01,yeah ,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,vegetable peeler,SUMMARIZE/REFORMULATE
+SPEAKER_01,"peeler connected to food and, I guess yep",OTHER
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_01,Trying to think what else was in there.,STATEMENT
+SPEAKER_01,What about the other guy?,OPEN-QUESTION
+SPEAKER_01,We've not actually said anything about the other guy.,STATEMENT
+SPEAKER_00,"Right, so you were saying... Uh-huh.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,Just leave it broad.,STATEMENT
+SPEAKER_00,He wasn't a photographer either.,STATEMENT
+SPEAKER_01,No.,NO ANSWERS
+SPEAKER_00,We don't know if he's... Don't know what he was doing.,HEDGE
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_01,"Because he was kind of behind the cameras from, well, I guess both of our perspectives for the most part because I only saw him in the background.",STATEMENT
+SPEAKER_01,I think he actually set up some of the camera.,STATEMENT
+SPEAKER_00,The camera was set up on mine and he had his phone in his hand.,STATEMENT
+SPEAKER_01,"Ah, okay.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_00,"Did something with his phone in front of the camera, took it away and then walked away and I didn't see him again until he came back.",STATEMENT
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,And was shaking his head.,STATEMENT
+SPEAKER_01,"Ah, okay.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_01,"So, because we don't really know what he's doing, we're just doing a person behind the camera.",SUMMARIZE/REFORMULATE
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_01,We don't know if he's there because he's testing or if he's there because he's just helping with the filming or if he was just there because he's another chef.,STATEMENT
+SPEAKER_01,We don't really know.,STATEMENT
+SPEAKER_01,What did he look like?,WH-QUESTION
+SPEAKER_01,I wasn't paying that much attention.,RESPONSE ACKNOWLEDGMENT
+SPEAKER_01,I think he was older than the main guy.,STATEMENT
+SPEAKER_00,He looked like a photographer.,STATEMENT
+SPEAKER_00,I think he looked like a photographer.,STATEMENT
+SPEAKER_01,Because the main guy...,ABANDONED/UNINTERPRETABLE
+SPEAKER_01,"I only saw his arms and his body, but he had tattoos on his arms.",STATEMENT
+SPEAKER_00,And he was definitely a chef.,STATEMENT
+SPEAKER_01,"Yeah, he had a black and yellow T-shirt and he had yellow shoes.",STATEMENT
+SPEAKER_00,"He did, that's right.",AGREEMENT/ACCEPT
+SPEAKER_00,And he had written on his T-shirt something about only a year to go or something like that.,STATEMENT
+SPEAKER_01,"Oh, right, OK.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,I didn't see that.,OTHER ANSWERS
+SPEAKER_00,Something like that.,DISPREFERRED ANSWERS
+SPEAKER_00,"Now I can't remember exactly what it was, but it was something about a year.",HEDGE
+SPEAKER_01,"But the guy behind the camera, because I didn't see him that much... He just looked like...",ABANDONED/UNINTERPRETABLE
+SPEAKER_01,Average Joe.,STATEMENT
+SPEAKER_00,Average Joe.,REPEAT-PHRASE
+SPEAKER_00,That's what he looked like to me.,STATEMENT
+SPEAKER_00,He wasn't there for any purpose other than to record it.,STATEMENT
+SPEAKER_01,"Yeah, it was just kind of, yeah.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,"I don't remember if he had, did he have like grey hair?",WH-QUESTION
+SPEAKER_00,He did.,YES ANSWERS
+SPEAKER_01,"Yeah, so he clearly was older.",STATEMENT
+SPEAKER_01,"What was the guy who was, from my perspective, did he look old?",WH-QUESTION
+SPEAKER_00,No.,NO ANSWERS
+SPEAKER_01,No.,NO ANSWERS
+SPEAKER_00,He had dark hair.,STATEMENT
+SPEAKER_00,He looked...,ABANDONED/UNINTERPRETABLE
+SPEAKER_01,So we'll just put older and I'm going to make that a connection to the chef as older.,STATEMENT
+SPEAKER_00,Yeah,YES ANSWERS
+SPEAKER_01,Does that make sense because we don't we still don't you could use that for more context clues as it being like an older person who's teaching him because he's the new chef or younger or,YES-NO-QUESTION
+SPEAKER_00,I would put he was teaching him or he was... Yeah.,COLLABORATIVE COMPLETION
+SPEAKER_00,That's a hard one because you don't really know what he was doing.,STATEMENT
+SPEAKER_01,"No, there's not enough context.",STATEMENT
+SPEAKER_00,He definitely had something to do with the recording.,STATEMENT
+SPEAKER_01,"Yeah, yeah, I think so.",AGREEMENT/ACCEPT
+SPEAKER_01,Especially because the cameras were on the other side of the chef table from the guy who was cooking.,STATEMENT
+SPEAKER_00,They were definitely straight on looking at him.,STATEMENT
+SPEAKER_01,"So if he was on the other side, it makes sense that he set them up.",STATEMENT
+SPEAKER_00,Yes.,YES ANSWERS
+SPEAKER_01,It was more likely that he set them up.,STATEMENT
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,So he was definitely doing the filming.,STATEMENT
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,"We don't know if he's also a chef, which he could be, but we don't know.",HEDGE
+SPEAKER_00,Cooker.,OTHER
+SPEAKER_01,Cooker.,REPEAT-PHRASE
+SPEAKER_00,"With rings, gas rings.",STATEMENT
+SPEAKER_00,Gas cooker.,STATEMENT
+SPEAKER_01,"Okay, yeah.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,Gas cooker.,REPEAT-PHRASE
+SPEAKER_01,"Behind the cameras, so from the guy looking forward, it was basically like a wall of ovens.",STATEMENT
+SPEAKER_00,That's right.,AGREEMENT/ACCEPT
+SPEAKER_01,Yeah.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,And the gas cooker was behind him.,STATEMENT
+SPEAKER_01,Yeah.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,I didn't see the gas cooker.,STATEMENT
+SPEAKER_00,No.,NO ANSWERS
+SPEAKER_00,Right.,AGREEMENT/ACCEPT
+SPEAKER_00,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,There were bowls.,STATEMENT
+SPEAKER_01,There were lots of bowls of things.,STATEMENT
+SPEAKER_00,Bowls.,REPEAT-PHRASE
+SPEAKER_01,There was kitchen roll down to hold the veg.,STATEMENT
+SPEAKER_00,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,yeah roll that's not how you spell roll that's fine so these are all in really ,STATEMENT
+SPEAKER_00,did we get sink did we write down sink and there was knives ,WH-QUESTION
+SPEAKER_01,yeah,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,and there was dishes that he was using in bowls that's right a chopping board ,STATEMENT
+SPEAKER_01,chopping board,REPEAT-PHRASE
+SPEAKER_01,"We can connect that to knives too, I guess.",STATEMENT
+SPEAKER_01,Chopping.,REPEAT-PHRASE
+SPEAKER_01,He had this like little almost container tub thing that he put the bits that he wasn't using.,STATEMENT
+SPEAKER_01,So when he first cut the carry.,STATEMENT
+SPEAKER_00,He did.,AGREEMENT/ACCEPT
+SPEAKER_00,He put the bits on like the skin on the outside.,STATEMENT
+SPEAKER_00,The rubbish.,STATEMENT
+SPEAKER_00,The peelings.,STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_01,Peelings into.,COLLABORATIVE COMPLETION
+SPEAKER_01,"Just a tub, I guess.",STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_01,For...,ABANDONED/UNINTERPRETABLE
+SPEAKER_00,You could just put rubbish.,MAYBE/ACCEPT-PART
+SPEAKER_00,Peel.,STATEMENT
+SPEAKER_01,"Yeah, peel would... I'll put peel.",AFFIRMATIVE NON-YES ANSWERS
+SPEAKER_00,What else was in the kitchen?,WH-QUESTION
+SPEAKER_00,There was loads of ovens.,STATEMENT
+SPEAKER_00,There was the cooker.,STATEMENT
+SPEAKER_00,There was the sink and there was the worktop.,STATEMENT
+SPEAKER_01,Was there lights overhead?,YES-NO-QUESTION
+SPEAKER_01,"Like, on to the bit that were being filmed?",OPEN-QUESTION
+SPEAKER_00,I never noticed...,OTHER ANSWERS
+SPEAKER_01,"I never noticed either, but I feel like... There might have been.",HEDGE
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_00,"The tubs, the knives, cut them up, the peeler, put the peelings into the box.",STATEMENT
+SPEAKER_01,Cameras were on tripods.,STATEMENT
+SPEAKER_00,"They were, that's true.",AGREEMENT/ACCEPT
+SPEAKER_01,"Tripods, because they were big tripods.",STATEMENT
+SPEAKER_00,And this chap had a mobile phone.,STATEMENT
+SPEAKER_01,okay okay i didn't see his phone ,RESPONSE ACKNOWLEDGMENT
+SPEAKER_00,yeah he had a mobile phone and i think he took a picture he was doing something in front of the camera with the phone ,STATEMENT
+SPEAKER_01,okay we should probably include um action cam for the one that was on the guy's head because that was separate from the cameras that were on the table um and that's connected to the chef as well,STATEMENT
+SPEAKER_00, yeah he's filming,STATEMENT
+SPEAKER_01,"Because, yeah, because then there was three cameras at least.",STATEMENT
+SPEAKER_01,And then there was the phone that might have taken pictures as well.,SUMMARIZE/REFORMULATE
+SPEAKER_00,I only saw two cameras.,REJECT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,"Yeah, there's two, both in front of them.",STATEMENT
+SPEAKER_00,yeah but and then oh his head sorry yeah ,ABANDONED/UNINTERPRETABLE
+SPEAKER_01, yeah I only saw two as well yeah but there was also the one on his head that was filming ,STATEMENT
+SPEAKER_00,I didn't know that's what that was it could be safety glasses I couldn't be sure what that was ,STATEMENT
+SPEAKER_01,"that was the perspective I saw and it was like a I could tell it was an action camera because it was like a fisheye lens so circular you knew that's what it was, was yours like a circular vision or was it just a normal video?",WH-QUESTION
+SPEAKER_00,I didn't see that at all.,STATEMENT
+SPEAKER_00,"Oh, no, it was a normal video.",STATEMENT
+SPEAKER_01,It was just a normal video.,REPEAT-PHRASE
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,The whole video for me was circular.,STATEMENT
+SPEAKER_00,"Ahh, Yeah.",YES ANSWERS
+SPEAKER_01,It was through an action camera.,STATEMENT
+SPEAKER_01,"You know, like fisheye lens kind of distorts it a bit.",STATEMENT
+SPEAKER_01,That was the whole video was through that view for me.,SUMMARIZE/REFORMULATE
+SPEAKER_01,It was through that action camera.,STATEMENT
+SPEAKER_00,"Mine was like, As you would with a television, straight screen.",STATEMENT
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_01,"So you, did you,",ABANDONED/UNINTERPRETABLE
+SPEAKER_01,So was your view from one of the cameras then?,YES-NO-QUESTION
+SPEAKER_00,No.,NO ANSWERS
+SPEAKER_01,So there must be another camera then.,DECLARATIVE YES-NO-QUESTION
+SPEAKER_00,"Well, it would have to be, that's true.",AGREEMENT/ACCEPT
+SPEAKER_01,"If you can see two cameras and my camera, there must be another camera.",DECLARATIVE YES-NO-QUESTION
+SPEAKER_00,Actually taking the video.,STATEMENT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,That's true.,AGREEMENT/ACCEPT
+SPEAKER_01,So did your camera move?,YES-NO-QUESTION
+SPEAKER_00,No.,NO ANSWERS
+SPEAKER_01,No.,NO ANSWERS
+SPEAKER_00,It was stationary.,STATEMENT
+SPEAKER_01,It was static.,REPEAT-PHRASE
+SPEAKER_00,Totally static.,REPEAT-PHRASE
+SPEAKER_01,But behind...,ABANDONED/UNINTERPRETABLE
+SPEAKER_00,Side on.,STATEMENT
+SPEAKER_01,Side on.,REPEAT-PHRASE
+SPEAKER_00,"Right, okay.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_01,So you saw all the way up.,DECLARATIVE YES-NO-QUESTION
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,"So, okay.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,So you saw the two cameras and the guy.,STATEMENT
+SPEAKER_01,And was that how it was laid out on either side?,YES-NO-QUESTION
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_01,"Okay, okay.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,So it must have been a third camera or a fourth camera.,DECLARATIVE YES-NO-QUESTION
+SPEAKER_01,"So were you on the bunker, do you think?",YES-NO-QUESTION
+SPEAKER_00,"No, beyond that even.",NO ANSWERS
+SPEAKER_00,"Oh, so you saw the edge of it?",AFFIRMATIVE NON-YES ANSWERS
+SPEAKER_00,"Right, I saw the cooker.",STATEMENT
+SPEAKER_00,worktop him two cameras on the worktop ovens okay and then the chap who was doing whatever he was doing looking at okay had his phone he walked away to the side and i couldn't see him after that and ,STATEMENT
+SPEAKER_01,then he came back he kind of was at the start and then disappeared from most of the cooking and then appeared again in the end ,STATEMENT
+SPEAKER_00,Yes.,YES ANSWERS
+SPEAKER_01,okay so were you do you think you were on a tripod on the worktop or do you think you were did you see the edge of the worktop,WH-QUESTION
+SPEAKER_00,No.,NO ANSWERS
+SPEAKER_01,"No, you didn't.",REJECT
+SPEAKER_01,So you could be on the worktop.,DECLARATIVE YES-NO-QUESTION
+SPEAKER_00,So it could have been on the worktop.,AGREEMENT/ACCEPT
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_00,"It could have been, yeah.",AFFIRMATIVE NON-YES ANSWERS
+SPEAKER_01,So there was a fourth camera.,STATEMENT
+SPEAKER_00,Actually taking...,ABANDONED/UNINTERPRETABLE
+SPEAKER_01,Filming.,OTHER
+SPEAKER_01,Fourth camera.,STATEMENT
+SPEAKER_01,but we don't know how far back or if it was on a tripod or if it was on the bunker or not ,STATEMENT
+SPEAKER_00,no,NO ANSWERS
+SPEAKER_01,there's not enough information ,STATEMENT
+SPEAKER_00,there's no information couldn't tell you how that was because I didn't see that one at all ,STATEMENT
+SPEAKER_01,mine was from his perspective but he kind of was looking down for the whole thing doing the cooking so I only saw like even the two cameras were kind of in the corners of the vision no ,STATEMENT
+SPEAKER_00,mine was like just looking at a kitchen,STATEMENT
+SPEAKER_01,okay yeah I can't think of anything else,ABANDONED/UNINTERPRETABLE
+SPEAKER_00,I can't think of anything else either.,CONVENTIONAL-CLOSING

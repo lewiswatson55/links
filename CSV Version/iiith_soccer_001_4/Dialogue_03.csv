@@ -1,0 +1,226 @@
+Speaker,Text,Tag
+SPEAKER_01,"So, it was a playing field.",STATEMENT
+SPEAKER_00,"No, it wasn't.",REJECT
+SPEAKER_01,Is it not?,YES-NO-QUESTION
+SPEAKER_00,It was an astroturf.,STATEMENT
+SPEAKER_01,"An astroturf, okay.",REPEAT-PHRASE
+SPEAKER_00,"An enclosed facility for people training, like a, what do they call those multi kind of things?",OPEN-QUESTION
+SPEAKER_01,The muga type thing?,COLLABORATIVE COMPLETION
+SPEAKER_00,Yes.,YES ANSWERS
+SPEAKER_00,And it was a group of men.,STATEMENT
+SPEAKER_01,it was,STATEMENT
+SPEAKER_01,In particular the one man with the very thick glasses.,STATEMENT
+SPEAKER_00,"Yes, doing keepie-uppies",STATEMENT
+SPEAKER_00,Not very good at it.,STATEMENT
+SPEAKER_00,"And then other men around him, three of them, not wearing football kit, feeding into the balls in to him at the times he lost them.",STATEMENT
+SPEAKER_00,There was five cameras or tripod stands set up.,STATEMENT
+SPEAKER_00,There was a goal.,STATEMENT
+SPEAKER_00,There was markers.,STATEMENT
+SPEAKER_00,"He was obviously working within a box, a rectangle-type shape box.",STATEMENT
+SPEAKER_01,There was a man on a phone.,STATEMENT
+SPEAKER_00,"Yes, I mentioned the three men already.",YES ANSWERS
+SPEAKER_01,But he was on the phone as well as having another phone.,STATEMENT
+SPEAKER_01,He had two phones.,STATEMENT
+SPEAKER_01,He had a phone in his hand and he was on a phone.,STATEMENT
+SPEAKER_00,Yes. There was also a group of other footballers at the top end.,YES ANSWERS
+SPEAKER_01,There was.,AFFIRMATIVE NON-YES ANSWERS
+SPEAKER_00,And training kit.,STATEMENT
+SPEAKER_00,Yes.,YES ANSWERS
+SPEAKER_00,They were doing something else.,STATEMENT
+SPEAKER_00,And...,ABANDONED/UNINTERPRETABLE
+SPEAKER_01,Clearly doing a video of some sort because they had a take separator.,STATEMENT
+SPEAKER_00,"Yes, they did.",YES ANSWERS
+SPEAKER_00,Well done.,APPRECIATION
+SPEAKER_00,"And yeah, it was a sunny day, clearly in a foreign country.",STATEMENT
+SPEAKER_01,So were they recording a video?,YES-NO-QUESTION
+SPEAKER_00,I don't know.,HEDGE
+SPEAKER_01,A training video?,YES-NO-QUESTION
+SPEAKER_00,Possible.,OTHER ANSWERS
+SPEAKER_00,But we didn't confirm that or not.,STATEMENT
+SPEAKER_01,"No, but we have to agree that that's what they were doing.",STATEMENT
+SPEAKER_00,"No, but we have to discuss what we see, not what we presume.",STATEMENT
+SPEAKER_00,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,Or what might have happened.,STATEMENT
+SPEAKER_00,Or what may have happened.,OR-CLAUSE
+SPEAKER_00,What did happen is that they were doing training and keepie-uppies with it.,STATEMENT
+SPEAKER_00,"But there was five tripods, three in one end and two in the other, which would indicate there was filming of some sort potentially taking place.",STATEMENT
+SPEAKER_00,But we don't know that because we didn't even know they were recording.,STATEMENT
+SPEAKER_00,"But clearly they were doing something, whether it be working on technique or whether it was potentially for a computer game possibly.",STATEMENT
+SPEAKER_00,I don't know.,HEDGE
+SPEAKER_00,I have no idea.,HEDGE
+SPEAKER_00,"But, aye.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,Pretty boring.,STATEMENT
+SPEAKER_00,But I think that's really...,STATEMENT
+SPEAKER_01,All you saw?,WH-QUESTION
+SPEAKER_00,"Nice day, clearly.",STATEMENT
+SPEAKER_01,It's quite built up.,STATEMENT
+SPEAKER_00,"Yes, surrounding it, yes.",YES ANSWERS
+SPEAKER_00,"So it's clearly obviously a... Town, or... No.",ABANDONED/UNINTERPRETABLE
+SPEAKER_00,Could be a city.,OTHER
+SPEAKER_01,Village.,COLLABORATIVE COMPLETION
+SPEAKER_00,It could be a village.,OTHER
+SPEAKER_00,"But what it was was an area that people could go and obviously use, clearly.",STATEMENT
+SPEAKER_00,They built up area for people to recreation.,STATEMENT
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,Could it have been a school?,YES-NO-QUESTION
+SPEAKER_00,"Possibly, but there was nothing to indicate in the video that it was a school.",DISPREFERRED ANSWERS
+SPEAKER_01,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,What was quite clear is they were an astroturf facility.,STATEMENT
+SPEAKER_01,They were definitely an astroturf facility.,REPEAT-PHRASE
+SPEAKER_00,Yes.,YES ANSWERS
+SPEAKER_00,"Which is clearly, yeah.",AFFIRMATIVE NON-YES ANSWERS
+SPEAKER_00,Do you have anything else you want to add?,OPEN-QUESTION
+SPEAKER_01,I don't think so.,NEGATIVE NON-NO ANSWERS
+SPEAKER_00,No.,NO ANSWERS
+SPEAKER_00,Okay.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,"The colour of the gentleman's shirts were questionable, but apart from that...",STATEMENT
+SPEAKER_01,What colour were they?,WH-QUESTION
+SPEAKER_00,"One was white, one was blue, and the other one was... One was white, one was blue.",STATEMENT
+SPEAKER_00,"Like, red.",STATEMENT
+SPEAKER_00,or was that the T-shirt the guy was wearing?,OR-CLAUSE
+SPEAKER_00,No.,NO ANSWERS
+SPEAKER_00,I was too busy focusing on how many keepy-uppies he was able to get.,STATEMENT
+SPEAKER_00,He did have red boots.,STATEMENT
+SPEAKER_01,He did.,YES ANSWERS
+SPEAKER_00,"And for the amount of keypuppies he had, not acceptable.",OPINION
+SPEAKER_00,"He also had shin guards on as well, which I have no idea why he would do shin guards when he's keepy-uppies.",STATEMENT
+SPEAKER_00,could have had a game before or after ,STATEMENT
+SPEAKER_00,"he just takes them off? while you're doing a cinder in the weight of your feet when you're doing keepy-uppies, what age were they... well the gentleman outside were older than the guys that the guy was doing it well we presume it's a guy but it could be a girl but again see what you see ",STATEMENT
+SPEAKER_01,so how old was the boy,WH-QUESTION
+SPEAKER_00, I think there must have been young men,OPINION
+SPEAKER_01,"17, 18?",DECLARATIVE YES-NO-QUESTION
+SPEAKER_00,Possibly. ,AFFIRMATIVE NON-YES ANSWERS
+SPEAKER_01,Possibly.,AFFIRMATIVE NON-YES ANSWERS
+SPEAKER_00,"No, I would say a bit older.",NEGATIVE NON-NO ANSWERS
+SPEAKER_01,20s?,WH-QUESTION
+SPEAKER_00,Certain nationalities can look a little bit older than they actually are.,STATEMENT
+SPEAKER_00,"I would say they were maybe into teenagers, beginning of young men.",STATEMENT
+SPEAKER_01,"19, 20, that's what I thought.",STATEMENT
+SPEAKER_00,"and the other guys, they were men.",STATEMENT
+SPEAKER_01,"Aye, They were men.",REPEAT-PHRASE
+SPEAKER_00,30s,STATEMENT
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_00,And they could be men.,STATEMENT
+SPEAKER_00,We're only presuming they could be identified as something else.,STATEMENT
+SPEAKER_00,"But as far as we're concerned, what we can see, they look like men.",STATEMENT
+SPEAKER_01,Males.,REPEAT-PHRASE
+SPEAKER_00,They didn't actually confirm that they were identified as not.,STATEMENT
+SPEAKER_00,"But as far as I was concerned, I identify them as male.",STATEMENT
+SPEAKER_01,In their 30s?,YES-NO-QUESTION
+SPEAKER_00,"In their 30s, yes.",YES ANSWERS
+SPEAKER_00,With questionable shirts.,STATEMENT
+SPEAKER_00,so... Football.,STATEMENT
+SPEAKER_01,So we're doing one in the middle with the man doing the keepy-uppies because he was the centre of the video.,STATEMENT
+SPEAKER_01,Do you agree?,YES-NO-QUESTION
+SPEAKER_01,Or are we doing the pitch?,OR-CLAUSE
+SPEAKER_00,I think we do the pitch.,OPINION
+SPEAKER_00,"Yeah, because that's where it was on.",STATEMENT
+SPEAKER_00,That's not a problem.,RESPONSE ACKNOWLEDGMENT
+SPEAKER_00,"So, yeah, pitch.",STATEMENT
+SPEAKER_01,"And then down here, the man, doing keepy-uppies?",STATEMENT
+SPEAKER_00,Yeah.,YES ANSWERS
+SPEAKER_00,Boy.,NO ANSWERS
+SPEAKER_00,"Yeah, boy, male.",STATEMENT
+SPEAKER_00,Sport equipment.,STATEMENT
+SPEAKER_01,"Right, so then do we want cameras coming out here and the other two older men coming out the other side?",OPEN-QUESTION
+SPEAKER_00,"Yeah, we could do.",AGREEMENT/ACCEPT
+SPEAKER_01,"Right, so.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,"We wanted to explain what you, because so far we've got the pitch and we've got some of the doing keepy-uppies",STATEMENT
+SPEAKER_00,So we want camera tripods or we want football equipment.,OPEN-QUESTION
+SPEAKER_00,"the weather was nice so you want to kind of because what you're doing is basically putting into, down exactly what you see, so potential built up area have we got the additional",STATEMENT
+SPEAKER_00,"players at the other end of the pitch yeah other footballers, we've got the three gentlemen so we'll put them down here yeah kind of feeding three older gents or I don't know if I remember them rolling the ball in or just feeding the person who was carrying out the keepy-uppies or the training exercise um",STATEMENT
+SPEAKER_00,The footballers had... Hold on.,HOLD BEFORE ANSWER/AGREEMENT
+SPEAKER_01,"Hold on, What was the... What was the take thing?",HOLD BEFORE ANSWER/AGREEMENT
+SPEAKER_01,What was it called?,OPEN-QUESTION
+SPEAKER_00,What?,SIGNAL-NON-UNDERSTANDING
+SPEAKER_01,When he kept his phone in front of the camera.,STATEMENT
+SPEAKER_01,You know the... GoPro.,COLLABORATIVE COMPLETION
+SPEAKER_01,"No, it was like a new scene.",STATEMENT
+SPEAKER_01,What's it called?,WH-QUESTION
+SPEAKER_01,Take separator.,STATEMENT
+SPEAKER_00,Take separator.,REPEAT-PHRASE
+SPEAKER_00,The other footballers were in kit.,STATEMENT
+SPEAKER_00,They were in kit.,REPEAT-PHRASE
+SPEAKER_00,The older gentleman were in kit.,STATEMENT
+SPEAKER_01,"for me, I think I saw a group of footballers, but in particular, one footballer, doing keepy-uppies, he's being recorded.",STATEMENT
+SPEAKER_00,Potentially.,MAYBE/ACCEPT-PART
+SPEAKER_01,Potentially?,BACKCHANNEL-QUESTION
+SPEAKER_01,What did you see from you?,WH-QUESTION
+SPEAKER_00,I see a guy doing keepy-uppies while other... people who were in the same kit further down the line did a pitch doing what they were doing and three older gentlemen who weren't in any kit feeding them in balls so they could keep going doing keepy-uppies  that's what happened,STATEMENT
+SPEAKER_01,Did you have the boy doing the take separators with his phone? ,WH-QUESTION
+SPEAKER_00,no,NO ANSWERS
+SPEAKER_01,so in my video there was an older boy that had a mobile phone and it had a QR code on it and he kept putting it in front of the screen as a take separator which made me think that they were recording him doing keepy-uppies,STATEMENT
+SPEAKER_00,"Right, okay.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_00,I thought you were talking about the discs.,RESPONSE ACKNOWLEDGMENT
+SPEAKER_01,So I'm thinking my video is different to your video.,STATEMENT
+SPEAKER_00,"I'm thinking, I thought you were talking about the...",HEDGE
+SPEAKER_00,the separators or dividers or discs that were on the floor.,STATEMENT
+SPEAKER_00,"That's what I thought you meant, but no, I didn't get that.",STATEMENT
+SPEAKER_01,"Right, okay.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_01,"So in my video, the perspective I got was that they were recording him doing the keepy-uppies and the other boys were doing the other side of the pitch just messing about.",STATEMENT
+SPEAKER_01,"Well, they might not be messing about, but they were.",STATEMENT
+SPEAKER_00,"I can presume that, but I didn't know if they were recording.",HEDGE
+SPEAKER_01,"You didn't see that, right, okay.",DECLARATIVE YES-NO-QUESTION
+SPEAKER_00,All I seen was three tripod stands together on one side and two on the other side of the wall.,STATEMENT
+SPEAKER_00,Right.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,"Okay, so the tripods were also in a different area when I was watching it.",STATEMENT
+SPEAKER_00,So there was one either side of the goal and then there were three at the other end.,STATEMENT
+SPEAKER_01,"Right, so the angle you got was different to the angle I got because I didn't see the goal.",STATEMENT
+SPEAKER_00,"Oh, right, okay.",BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,I just saw the boy doing the keepy-uppies and the three cameras at the bottom.,STATEMENT
+SPEAKER_00,"Right, okay.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_00,And his kit was black and red.,STATEMENT
+SPEAKER_01,His football boots were red.,STATEMENT
+SPEAKER_01,His football boots were definitely red.,STATEMENT
+SPEAKER_00,And did you see the gentleman with the shirts?,YES-NO-QUESTION
+SPEAKER_01,I did see the gentleman with the shirt.,YES ANSWERS
+SPEAKER_01,"Well, the two.",OTHER
+SPEAKER_00,"I'm presuming that we're watching the same... Just from a different angle, I'm thinking, yes.",HEDGE
+SPEAKER_01,I was watching him from the front doing keep-your-pays like that.,STATEMENT
+SPEAKER_01,How were you?,OPEN-QUESTION
+SPEAKER_01,He was doing keepyuppies in front of me.,STATEMENT
+SPEAKER_00,"Yeah, that's right.",AGREEMENT/ACCEPT
+SPEAKER_00,That's what he was doing.,STATEMENT
+SPEAKER_00,It was almost like my head was on his head when he was doing keepyuppies because that's where the camera was.,STATEMENT
+SPEAKER_01,"Oh, so did you see his feet?",OPEN-QUESTION
+SPEAKER_00,Yes.,YES ANSWERS
+SPEAKER_01,Did you not see his face?,YES-NO-QUESTION
+SPEAKER_01,No.,NO ANSWERS
+SPEAKER_00,"Oh, I saw his face.",STATEMENT
+SPEAKER_01,So how do you know how old he was?,WH-QUESTION
+SPEAKER_00,I don't...,ABANDONED/UNINTERPRETABLE
+SPEAKER_00,"but I'm presuming looking at his legs and looking at the other footballers further down that they were obviously of the same age, ",STATEMENT
+SPEAKER_01,"same age right okay well I know I could see him doing it well he had red football boots by the way he did have red football boots and he did look like he was 17, 18, 19, 20 ",STATEMENT
+SPEAKER_00,right okay. He certainly wasn't from this parish anyway.,STATEMENT
+SPEAKER_01,He wasn't Scottish,STATEMENT
+SPEAKER_00,No.,NO ANSWERS
+SPEAKER_01,I don't think.,HEDGE
+SPEAKER_00,No.,NO ANSWERS
+SPEAKER_01,It was sunny for the start.,STATEMENT
+SPEAKER_00,"Yes, exactly.",AGREEMENT/ACCEPT
+SPEAKER_00,So you watched a different video to me then?,DECLARATIVE YES-NO-QUESTION
+SPEAKER_01,"Well, it was the same video from a different angle, I think.",STATEMENT
+SPEAKER_00,What colour was the ball?,WH-QUESTION
+SPEAKER_01,White.,OTHER ANSWERS
+SPEAKER_00,Yellow?,NO ANSWERS
+SPEAKER_01,I've no idea.,OTHER ANSWERS
+SPEAKER_00,"White, yellow and blue.",STATEMENT
+SPEAKER_00,They were all the same balls.,STATEMENT
+SPEAKER_01,They were all the same balls.,REPEAT-PHRASE
+SPEAKER_01,Yeah.,YES ANSWERS
+SPEAKER_01,They were all the same balls.,REPEAT-PHRASE
+SPEAKER_01,"And every time it went out, the boys kicked it back in to keepy-uppies going.",STATEMENT
+SPEAKER_00,"But they didn't really keep him going because he kept... Well, he did.",STATEMENT
+SPEAKER_01,He wasn't very good.,STATEMENT
+SPEAKER_00,"You've obviously watched it face forward, and then the QR code type scenario with the dividers.",STATEMENT
+SPEAKER_00,I just saw them constantly rolling it in.,STATEMENT
+SPEAKER_01,"Right, no.",NO ANSWERS
+SPEAKER_01,I was watching it as if they were recording him doing it.,STATEMENT
+SPEAKER_01,So it was almost like I was on the camera.,STATEMENT
+SPEAKER_01,I was the cameraman.,STATEMENT
+SPEAKER_01,You were the ball boy doing the keepy-uppies and I was the cameraman.,COLLABORATIVE COMPLETION
+SPEAKER_00,"All right, OK.",RESPONSE ACKNOWLEDGMENT
+SPEAKER_00,Cool.,BACKCHANNEL/ACKNOWLEDGE
+SPEAKER_01,I think.,HEDGE
+SPEAKER_00,"Well, that's what your perception is.",STATEMENT
+SPEAKER_01,"That's right, that's my perception.",STATEMENT
